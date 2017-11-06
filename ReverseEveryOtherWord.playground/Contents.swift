@@ -2,6 +2,9 @@
 
 import UIKit
 
+// Reversing every other word in a sentence.
+// Removing the vowels in a String using an extension
+
 // LBTA method
 
 var sampleSentence = "Lets start today by completing a very interesting challenge"

@@ -1,4 +1,5 @@
 //: Playground - noun: a place where people can play
+// A useful extension on Array for shuffling.
 
 import UIKit
 
